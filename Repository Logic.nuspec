@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RepositoryLogic</id>
+    <version>$version$</version>
+    <title>Repository Logic</title>
+    <authors>Alfredo Pacheco</authors>
+    <owners>Alfredo Pacheco</owners>
+    <licenseUrl>https://github.com/alfredoPacheco/NetRepositoryLogic/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/alfredoPacheco/NetRepositoryLogic</projectUrl>
+    <iconUrl>https://github.com/alfredoPacheco/NetRepositoryLogic/blob/master/R.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Repository Pattern applied with Entity Framework</description>
+    <releaseNotes>Two types of entities: Entity and Document, where Document can be trackable.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Repository</tags>
+  </metadata>
+</package>
